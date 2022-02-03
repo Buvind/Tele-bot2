@@ -1,0 +1,1 @@
+worker: pyther 3 main.py
